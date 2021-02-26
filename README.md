@@ -1,0 +1,1 @@
+Rodzaje połączeń do bazy danych
